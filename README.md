@@ -1,7 +1,7 @@
 # Astrocamp2021
 Codes from astrocamp 2021
 
-Citation:
+Organizer citation: 
 
 @misc{GuzzettiMartinsMiskioglu2021,
   author = {Guzzetti, D., Martin, K., Miskio\v{g}lu, E.},
