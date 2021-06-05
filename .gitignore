@@ -32,3 +32,6 @@ octave-workspace
 
 # PDF files
 *.pdf
+
+# png files
+*.png
